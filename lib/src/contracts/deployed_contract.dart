@@ -1,4 +1,4 @@
-part of '../../web3dart.dart';
+part of '../../evm_dart.dart';
 
 /// Helper class that defines a contract with a known ABI that has been deployed
 /// on a Ethereum blockchain.

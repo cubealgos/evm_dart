@@ -1,4 +1,4 @@
-part of '../../web3dart.dart';
+part of '../../evm_dart.dart';
 
 abstract class _KeyDerivator {
   Uint8List deriveKey(Uint8List password);

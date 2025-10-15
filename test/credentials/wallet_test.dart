@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:test/test.dart';
-import 'package:web3dart/web3dart.dart';
+import 'package:evm_dart/evm_dart.dart';
 
 import 'example_keystores.dart' as data;
 

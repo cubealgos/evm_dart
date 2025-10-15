@@ -1,4 +1,4 @@
-part of '../../../web3dart.dart';
+part of '../../../evm_dart.dart';
 
 /// Contract Function Type
 enum ContractFunctionType {

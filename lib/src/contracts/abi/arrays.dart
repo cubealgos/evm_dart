@@ -1,4 +1,4 @@
-part of '../../../web3dart.dart';
+part of '../../../evm_dart.dart';
 
 /// The bytes&lt;M&gt; solidity type, which stores up to 32 bytes.
 class FixedBytes extends AbiType<Uint8List> {

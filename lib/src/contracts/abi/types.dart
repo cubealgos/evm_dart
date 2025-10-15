@@ -1,4 +1,4 @@
-part of '../../../web3dart.dart';
+part of '../../../evm_dart.dart';
 
 /// The length of the encoding of a solidity type is always a multiplicative of
 /// this unit size.

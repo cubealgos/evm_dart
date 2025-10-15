@@ -1,6 +1,6 @@
 import 'dart:math';
 import 'package:test/test.dart';
-import 'package:web3dart/web3dart.dart';
+import 'package:evm_dart/evm_dart.dart';
 
 class MockRandom implements Random {
   // using BigInt because 1 << 32 is 0 in js

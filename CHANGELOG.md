@@ -1,3 +1,7 @@
+## 4.0.0 
+
+* Converted signing to be async
+
 ## 3.0.1
 
 * Improve package score.

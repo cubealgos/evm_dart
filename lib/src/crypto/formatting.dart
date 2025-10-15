@@ -1,4 +1,4 @@
-part of '../../web3dart.dart';
+part of '../../evm_dart.dart';
 
 /// If present, removes the 0x from the start of a hex-string.
 String strip0x(String hex) {

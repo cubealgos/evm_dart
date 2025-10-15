@@ -1,8 +1,8 @@
-name: web3dart
+name: evm_dart
 description: Dart library to connect to Ethereum clients. Send transactions and interact with smart contracts!
-version: 3.0.1
-homepage: https://pwa.ir
-repository: https://github.com/xclud/web3dart
+version: 4.0.0
+homepage: https://cubealgos.xyz
+repository: https://github.com/cubealgos/evm_dart
 
 environment:
   sdk: ">=2.12.0 <4.0.0"

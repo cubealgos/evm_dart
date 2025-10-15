@@ -1,4 +1,4 @@
-part of '../../web3dart.dart';
+part of '../../evm_dart.dart';
 
 /// Utility to use dart:math's Random class to generate numbers used by
 /// pointycastle.

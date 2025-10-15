@@ -1,5 +1,5 @@
 import 'package:test/test.dart';
-import 'package:web3dart/web3dart.dart';
+import 'package:evm_dart/evm_dart.dart';
 import 'package:wallet/wallet.dart';
 
 import '../mock_client.dart';

@@ -1,4 +1,4 @@
-part of 'package:web3dart/web3dart.dart';
+part of 'package:evm_dart/evm_dart.dart';
 
 class Transaction {
   Transaction({
